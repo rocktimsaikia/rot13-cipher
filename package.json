@@ -1,6 +1,6 @@
 {
 	"name": "rot13-cipher",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "ROT13 substitution cipher for Node.js",
 	"keywords": [
 		"rot13",
