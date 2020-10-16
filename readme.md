@@ -6,7 +6,7 @@ ROT13 is its own [inverse](https://en.wikipedia.org/wiki/Inverse_function). Mean
 
 ## Install
 ```bash
-npm install rot13-cipher
+$ npm install rot13-cipher
 ```
 
 ## Usage
