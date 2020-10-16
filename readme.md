@@ -1,8 +1,9 @@
 # rot13-cipher ![build](https://travis-ci.com/RocktimSaikia/rot13-cipher.svg?branch=master)
 
->  [`ROT13`](https://en.wikipedia.org/wiki/ROT13) substitution cipher for Node.js. Example: `foobar` → `sbbone`
+>  [`ROT13`](https://en.wikipedia.org/wiki/ROT13) substitution cipher for Node.js. Example: `foobar` → `sbbone`<br>
 
-ROT13 is its own [inverse](https://en.wikipedia.org/wiki/Inverse_function). Meaning, to undo `ROT13`, the same algorithm is applied, so the same action can be used for encoding and decoding.
+ROT13 is its own [inverse](https://en.wikipedia.org/wiki/Inverse_function). Meaning, to undo `ROT13`, the same algorithm is applied, so the same action can be used for encoding and decoding.<br>
+This cypher is generally used in online forums as a means of hiding spoilers, punchlines, puzzle solutions, and offensive materials from the casual glance.
 
 ## Install
 ```bash
