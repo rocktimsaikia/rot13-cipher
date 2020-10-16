@@ -1,7 +1,6 @@
 # rot13-cipher ![build](https://travis-ci.com/RocktimSaikia/rot13-cipher.svg?branch=master)
 
->  [`ROT13`](https://en.wikipedia.org/wiki/ROT13) substitution cipher for Node.js<br>
->  Example: `foobar` → `sbbone`
+>  [`ROT13`](https://en.wikipedia.org/wiki/ROT13) substitution cipher for Node.js. Example: `foobar` → `sbbone`
 
 ROT13 is its own [inverse](https://en.wikipedia.org/wiki/Inverse_function). Meaning, to undo `ROT13`, the same algorithm is applied, so the same action can be used for encoding and decoding.
 
