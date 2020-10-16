@@ -1,0 +1,33 @@
+{
+	"name": "rot13-cipher",
+	"version": "0.0.0",
+	"description": "ROT13 substitution cipher for Node.js",
+	"keywords": [
+		"rot13",
+		"cipher",
+		"decipher",
+		"rot13-cipher",
+		"rot13-decipher"
+	],
+	"repository": "RocktimSaikia/rot13-cipher",
+	"license": "MIT",
+	"author": {
+		"name": "Rocktim Saikia",
+		"email": "rocktimthedev@gmail.com",
+		"url": "https://rocktim.xyz"
+	},
+	"files": [
+		"index.d.ts",
+		"index.js"
+	],
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"xo": "^0.33.1"
+	},
+	"engines": {
+		"node": ">=12"
+	}
+}
