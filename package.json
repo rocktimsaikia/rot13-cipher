@@ -17,8 +17,7 @@
 		"url": "https://rocktim.xyz"
 	},
 	"files": [
-		"index.d.ts",
-		"index.js"
+		"src/**/*"
 	],
 	"scripts": {
 		"test": "xo && ava"

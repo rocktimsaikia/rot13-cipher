@@ -1,5 +1,5 @@
 import test from 'ava';
-import rot13Cypher from '.';
+import rot13Cypher from './src';
 
 test('main', t => {
 	t.is(rot13Cypher('hello world'), 'uryyb jbeyq');
