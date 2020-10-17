@@ -31,7 +31,7 @@ $ npm install rot13-cipher
 
 ### rot13Cipher(string)
 
-Takes one string input and returns the encoded veersion of it.
+Takes one string input and returns the encoded version of it.
 
 
 ## Support
